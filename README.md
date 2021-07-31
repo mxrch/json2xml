@@ -1,4 +1,7 @@
 # json2xml
+
+<a href="https://pkg.go.dev/vimagination.zapto.org/json2xml"><img src="https://pkg.go.dev/badge/vimagination.zapto.org/json2xml" alt="PkgGoDev vimagination.zapto.org/json2xml"></a>
+
 --
     import "vimagination.zapto.org/json2xml"
 
